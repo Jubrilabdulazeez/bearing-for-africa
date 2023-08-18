@@ -1,6 +1,6 @@
 # Bearing App - 
 
-The Bearing App is a simple web application that allows users to view longitude and latitude coordinates for a specified location. This app is designed to help users quickly access geographical information and coordinates for various places around the world.
+The Bearing App is a simple web application that allows users to view longitude and latitude coordinates for a specified location. This app is designed to help users quickly access geographical information and coordinates for various places around Africa.
 
 ## Features
 
